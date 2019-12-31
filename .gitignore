@@ -111,3 +111,5 @@ fabric.properties
 *.rar
 *.mp3
 *.mp3
+*.wav
+*.flac
